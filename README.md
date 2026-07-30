@@ -10,4 +10,4 @@ SRE & DevOps
 
 ## 📊 Tecnologias
 
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs?username=mateus-roberto&layout=compact&theme=tokyonight&langs_count=6)
+![Tecnologias](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateus-roberto&theme=github_dark)
