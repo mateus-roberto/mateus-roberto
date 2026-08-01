@@ -8,9 +8,10 @@ SRE & DevOps
 
 ## 📊 Linguagens mais usadas
 
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateus-roberto&theme=github_dark"
-    alt="Linguagens mais usadas nos repositórios"
-  />
-</p>
+```mermaid
+pie showData
+    title Linguagens mais usadas nos repositórios
+    "Shell" : 3
+    "HCL" : 1
+    "HTML" : 1
+```
