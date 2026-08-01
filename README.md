@@ -6,12 +6,8 @@ SRE & DevOps
   <img src="https://skillicons.dev/icons?i=linux,aws,gcp,terraform,git,githubactions,bash,python,grafana" />
 </p>
 
-## 📊 Linguagens mais usadas
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
 
-```mermaid
-pie showData
-    title Linguagens mais usadas nos repositórios
-    "Shell" : 3
-    "HCL" : 1
-    "HTML" : 1
-```
+## 📊 Tecnologias
+
+![Tecnologias](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateus-roberto&theme=github_dark)
