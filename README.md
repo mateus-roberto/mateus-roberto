@@ -9,11 +9,8 @@ SRE & DevOps
 ## 📊 Linguagens mais usadas
 
 <p align="left">
-  <a href="https://github.com/mateus-roberto">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-roberto&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-      alt="Linguagens mais usadas nos repositórios"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateus-roberto&theme=github_dark"
+    alt="Linguagens mais usadas nos repositórios"
+  />
 </p>
