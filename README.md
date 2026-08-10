@@ -6,15 +6,21 @@ SRE & DevOps
   <img src="https://skillicons.dev/icons?i=linux,aws,gcp,terraform,git,githubactions,bash,python,grafana" />
 </p>
 
-## 📊 Linguagens mais usadas
+## 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left"
-    alt="Linguagens mais usadas"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-roberto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+<br/>
 
-<br clear="both">
+<div align="center">
+
+  <a href="https://github.com/mateus-roberto">
+    <img
+      alt="Most Used Languages"
+      height="200em"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=mateus-roberto&layout=compact&langs_count=8&theme=tokyonight&hide=javascript"
+    />
+  </a>
+
+</div>
+
+<br/>
+
